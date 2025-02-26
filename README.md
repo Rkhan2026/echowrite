@@ -1,2 +1,2 @@
-# imagica
-AI Image Generation App using the MERN Stack (MongoDB, Express.js, React.js, Node.js)
+# quickcart
+Product Store using the PERN Stack (Postgres, Express.js, React.js, Node.js)
