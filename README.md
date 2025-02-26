@@ -1,2 +1,2 @@
-# quickcart
-Product Store using the PERN Stack (Postgres, Express.js, React.js, Node.js)
+# echowrite
+Fullstack Blog App Using MERN (MongoDB, Express.js, React.js, Node.js). 
