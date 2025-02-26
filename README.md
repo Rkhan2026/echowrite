@@ -1,2 +1,2 @@
-# quickcart
-Product Store with Postgres &amp; React
+# imagica
+AI Image Generation App using the MERN Stack (MongoDB, Express.js, React.js, Node.js)
